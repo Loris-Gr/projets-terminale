@@ -5,4 +5,4 @@ Nota bene : Afin d'avoir un jeu fonctionnel il est bien évidemment nécessaire 
 
 Le [jeu de cartes](projets-terminale/jeux-de-cartes/main.py) mini-projet de terminale. Il consistait à créer le jeu de la bataille sur processing 3 avec l'extension python. J'avais un embryon de départ qui permettait d'afficher un duo de cartes et quand on cliquait les prochaines cartes apparaissaient. J'ai créer le jeu de la bataille, un menu est prévu ainsi que peut-être le jeu de la belotte. 
 
-Nota Bene : Même NB que pour le casse brique.
+Nota Bene : Même NB que pour le casse brique. De plus, les cartes sont à mettre dans un dossier "cartes" qu'il faudra mettre dans le même dossier que celui où il y a tout les autres fichiers.
