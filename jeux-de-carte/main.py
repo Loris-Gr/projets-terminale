@@ -83,10 +83,10 @@ def draw():
     if mousePressed and time.time()-t > 0.25:
         t = time.time()
         if jeu1 == [] :
-            image(j1_gagne,0,0)
+            image(j2_gagne,0,0)
             return True
         if jeu2 == [] :
-            image(j2_gagne,0,0)
+            image(j1_gagne,0,0)
             return True       
         carte_j1 = jeu1[0]
         carte_j2 = jeu2[0]
